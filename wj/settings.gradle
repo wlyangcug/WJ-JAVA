@@ -1,0 +1,2 @@
+rootProject.name = 'wj'
+include('wj-common','wj-server')
